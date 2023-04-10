@@ -1,0 +1,1860 @@
+[
+  {
+    "inventories": [
+      {
+        "product": "LEPE-BABENE-XXX0",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BABENE-XXX1",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-BABENE-XXX2",
+        "warehouse": "EU-FRA-004",
+        "available": 7,
+        "in_warehouse": 7
+      },
+      {
+        "product": "LEPE-BABENE-XXX3",
+        "warehouse": "EU-FRA-004",
+        "available": 5,
+        "in_warehouse": 5
+      },
+      {
+        "product": "LEPE-BABENE-XXX4",
+        "warehouse": "EU-FRA-004",
+        "available": 6,
+        "in_warehouse": 6
+      },
+      {
+        "product": "LEPE-BABENE-XXX5",
+        "warehouse": "EU-FRA-004",
+        "available": 6,
+        "in_warehouse": 6
+      },
+      {
+        "product": "LEPE-BABENE-XXX6",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BCASAB-LEU0",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BCASAB-LEU1",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BCASAB-LEU2",
+        "warehouse": "EU-FRA-004",
+        "backordered": 1
+      },
+      {
+        "product": "LEPE-BCASAB-LEU3",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BCASAB-LEU4",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BCASAB-LEU5",
+        "warehouse": "EU-FRA-004",
+        "available": 7,
+        "in_warehouse": 7
+      },
+      {
+        "product": "LEPE-BCASAB-LEU6",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BCASAR-OUG0",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BCASAR-OUG1",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BCASAR-OUG2",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BCASAR-OUG3",
+        "warehouse": "EU-FRA-004",
+        "available": 7,
+        "in_warehouse": 7
+      },
+      {
+        "product": "LEPE-BCASAR-OUG4",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BCASAR-OUG5",
+        "warehouse": "EU-FRA-004",
+        "available": 5,
+        "in_warehouse": 5
+      },
+      {
+        "product": "LEPE-BCASAR-OUG6",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BDJOUB-LAN0",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BDJOUB-LAN1",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-BDJOUB-LAN2",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BDJOUB-LAN3",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BDJOUB-LAN4",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BDJOUB-LAN5",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-BDJOUB-LAN6",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BDJOUB-LEU0",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BDJOUB-LEU1",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BDJOUB-LEU2",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BDJOUB-LEU3",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BDJOUB-LEU4",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BDJOUB-LEU5",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-BDJOUB-LEU6",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BFANNV-ERT0",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BFANNV-ERT1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BFANNV-ERT2",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BFANNV-ERT3",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BFANNV-ERT4",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BFANNV-ERT5",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BFANNV-ERT6",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BKABAD-IOX0",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BKABAD-IOX1",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-BKABAD-IOX2",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BKABAD-IOX3",
+        "warehouse": "EU-FRA-004",
+        "available": 6,
+        "in_warehouse": 6
+      },
+      {
+        "product": "LEPE-BKABAD-IOX4",
+        "warehouse": "EU-FRA-004",
+        "available": 5,
+        "in_warehouse": 5
+      },
+      {
+        "product": "LEPE-BKABAD-IOX5",
+        "warehouse": "EU-FRA-004",
+        "available": 7,
+        "in_warehouse": 7
+      },
+      {
+        "product": "LEPE-BKABAD-IOX6",
+        "warehouse": "EU-FRA-004",
+        "available": 7,
+        "in_warehouse": 7
+      },
+      {
+        "product": "LEPE-BLOUMP-BOR0",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BLOUMP-BOR1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BLOUMP-BOR2",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BLOUMP-BOR3",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-BLOUMP-BOR4",
+        "warehouse": "EU-FRA-004",
+        "available": 8,
+        "in_warehouse": 8
+      },
+      {
+        "product": "LEPE-BLOUMP-BOR5",
+        "warehouse": "EU-FRA-004",
+        "available": 6,
+        "in_warehouse": 6
+      },
+      {
+        "product": "LEPE-BLOUMP-BOR6",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BLOUMP-JAU0",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BLOUMP-JAU1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BLOUMP-JAU2",
+        "warehouse": "EU-FRA-004",
+        "backordered": 1
+      },
+      {
+        "product": "LEPE-BLOUMP-JAU3",
+        "warehouse": "EU-FRA-004",
+        "available": 23,
+        "in_warehouse": 25
+      },
+      {
+        "product": "LEPE-BLOUMP-JAU4",
+        "warehouse": "EU-FRA-004",
+        "available": 19,
+        "in_warehouse": 19
+      },
+      {
+        "product": "LEPE-BLOUMP-JAU5",
+        "warehouse": "EU-FRA-004",
+        "available": 11,
+        "in_warehouse": 12
+      },
+      {
+        "product": "LEPE-BLOUMP-JAU6",
+        "warehouse": "EU-FRA-004",
+        "available": 5,
+        "in_warehouse": 5
+      },
+      {
+        "product": "LEPE-BLOUMP-SOL0",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BLOUMP-SOL1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BLOUMP-SOL2",
+        "warehouse": "EU-FRA-004",
+        "available": 10,
+        "in_warehouse": 10
+      },
+      {
+        "product": "LEPE-BLOUMP-SOL3",
+        "warehouse": "EU-FRA-004",
+        "available": 10,
+        "in_warehouse": 10
+      },
+      {
+        "product": "LEPE-BLOUMP-SOL4",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BLOUMP-SOL5",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BLOUMP-VER0",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BLOUMP-VER1",
+        "warehouse": "EU-FRA-004",
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BLOUMP-VER2",
+        "warehouse": "EU-FRA-004",
+        "available": 11,
+        "in_warehouse": 11
+      },
+      {
+        "product": "LEPE-BLOUMP-VER3",
+        "warehouse": "EU-FRA-004",
+        "available": 8,
+        "in_warehouse": 8
+      },
+      {
+        "product": "LEPE-BLOUMP-VER4",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BLOUMP-VER5",
+        "warehouse": "EU-FRA-004",
+        "backordered": 1
+      },
+      {
+        "product": "LEPE-BLOUMP-VER6",
+        "warehouse": "EU-FRA-004",
+        "available": 7,
+        "in_warehouse": 7
+      },
+      {
+        "product": "LEPE-BMEDIN-AXX0",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BMEDIN-AXX1",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BMEDIN-AXX2",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BMEDIN-AXX3",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BMEDIN-AXX4",
+        "warehouse": "EU-FRA-004",
+        "available": 8,
+        "in_warehouse": 8
+      },
+      {
+        "product": "LEPE-BMEDIN-AXX5",
+        "warehouse": "EU-FRA-004",
+        "available": 10,
+        "in_warehouse": 10
+      },
+      {
+        "product": "LEPE-BMEDIN-AXX6",
+        "warehouse": "EU-FRA-004",
+        "available": 18,
+        "in_warehouse": 18
+      },
+      {
+        "product": "LEPE-BNGORX-XXX0",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BNGORX-XXX1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BNGORX-XXX2",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-BNGORX-XXX3",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BNGORX-XXX4",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BNGORX-XXX5",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BNGORX-XXX6",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BOGFUL-BLA2",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BOGFUL-BLA3",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BOGFUL-BLA4",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BOGFUL-BLA5",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-BOGFUL-BLA6",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BOGFUL-CLA2",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BOGFUL-CLA3",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BOGFUL-CLA4",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-BOGFUL-CLA5",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BOGFUL-CLA6",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BOGFUL-NOI1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BOGFUL-NOI2",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BOGFUL-NOI3",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-BOGFUL-NOI4",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-BOGFUL-NOI5",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-BOGFUL-NOI6",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BOGFUL-OCR2",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BOGFUL-OCR3",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BOGFUL-OCR4",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-BOGFUL-OCR5",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-BOGFUL-OCR6",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BOGMAN-BLA0",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BOGMAN-BLA1",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BOGMAN-BLA2",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BOGMAN-BLA3",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BOGMAN-BLA4",
+        "warehouse": "EU-FRA-004",
+        "available": 5,
+        "in_warehouse": 5
+      },
+      {
+        "product": "LEPE-BOGMAN-BLA5",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-BOGMAN-BLA6",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-BOGMAN-CLA2",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-BOGMAN-CLA3",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-BOGMAN-CLA4",
+        "warehouse": "EU-FRA-004",
+        "available": 7,
+        "in_warehouse": 7
+      },
+      {
+        "product": "LEPE-BOGMAN-CLA5",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-BOGMAN-CLA6",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BOGMAN-NOI1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BOGMAN-NOI2",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BOGMAN-NOI3",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BOGMAN-NOI4",
+        "warehouse": "EU-FRA-004",
+        "available": 5,
+        "in_warehouse": 5
+      },
+      {
+        "product": "LEPE-BOGMAN-NOI5",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-BOGMAN-NOI6",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BOGMAN-OCR2",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-BOGMAN-OCR4",
+        "warehouse": "EU-FRA-004",
+        "available": 5,
+        "in_warehouse": 5
+      },
+      {
+        "product": "LEPE-BOGMAN-OCR5",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-BOGMAN-OCR6",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-BPIKIL-AGO0",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BPIKIL-AGO1",
+        "warehouse": "EU-FRA-004",
+        "backordered": 2
+      },
+      {
+        "product": "LEPE-BPIKIL-AGO2",
+        "warehouse": "EU-FRA-004",
+        "available": 5,
+        "in_warehouse": 5
+      },
+      {
+        "product": "LEPE-BPIKIL-AGO3",
+        "warehouse": "EU-FRA-004",
+        "available": 10,
+        "in_warehouse": 10
+      },
+      {
+        "product": "LEPE-BPIKIL-AGO4",
+        "warehouse": "EU-FRA-004",
+        "available": 11,
+        "in_warehouse": 12
+      },
+      {
+        "product": "LEPE-BPIKIL-AGO5",
+        "warehouse": "EU-FRA-004",
+        "available": 13,
+        "in_warehouse": 13
+      },
+      {
+        "product": "LEPE-BPIKIL-AGO6",
+        "warehouse": "EU-FRA-004",
+        "available": 6,
+        "in_warehouse": 6
+      },
+      {
+        "product": "LEPE-BPIKIN-OIR0",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BPIKIN-OIR1",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BPIKIN-OIR2",
+        "warehouse": "EU-FRA-004",
+        "available": 8,
+        "in_warehouse": 8
+      },
+      {
+        "product": "LEPE-BPIKIN-OIR3",
+        "warehouse": "EU-FRA-004",
+        "available": 17,
+        "in_warehouse": 17
+      },
+      {
+        "product": "LEPE-BPIKIN-OIR4",
+        "warehouse": "EU-FRA-004",
+        "available": 11,
+        "in_warehouse": 11
+      },
+      {
+        "product": "LEPE-BPIKIN-OIR5",
+        "warehouse": "EU-FRA-004",
+        "available": 5,
+        "in_warehouse": 5
+      },
+      {
+        "product": "LEPE-BPIKIN-OIR6",
+        "warehouse": "EU-FRA-004",
+        "available": 10,
+        "in_warehouse": 10
+      },
+      {
+        "product": "LEPE-BPIKIP-PAO0",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BPIKIP-PAO1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BPIKIP-PAO2",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BPIKIP-PAO3",
+        "warehouse": "EU-FRA-004",
+        "available": 8,
+        "in_warehouse": 8
+      },
+      {
+        "product": "LEPE-BPIKIP-PAO4",
+        "warehouse": "EU-FRA-004",
+        "available": 10,
+        "in_warehouse": 10
+      },
+      {
+        "product": "LEPE-BPIKIP-PAO5",
+        "warehouse": "EU-FRA-004",
+        "available": 9,
+        "in_warehouse": 9
+      },
+      {
+        "product": "LEPE-BPIKIP-PAO6",
+        "warehouse": "EU-FRA-004",
+        "available": 6,
+        "in_warehouse": 6
+      },
+      {
+        "product": "LEPE-BPIKIS-AUM0",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BPIKIS-AUM1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BPIKIS-AUM2",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BPIKIS-AUM3",
+        "warehouse": "EU-FRA-004",
+        "available": 12,
+        "in_warehouse": 12
+      },
+      {
+        "product": "LEPE-BPIKIS-AUM4",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-BPIKIS-AUM5",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BPIKIS-AUM6",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BSOMON-EXX0",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-BSOMON-EXX1",
+        "warehouse": "EU-FRA-004",
+        "available": 8,
+        "in_warehouse": 8
+      },
+      {
+        "product": "LEPE-BSOMON-EXX2",
+        "warehouse": "EU-FRA-004",
+        "available": 16,
+        "in_warehouse": 16
+      },
+      {
+        "product": "LEPE-BSOMON-EXX3",
+        "warehouse": "EU-FRA-004",
+        "available": 19,
+        "in_warehouse": 19
+      },
+      {
+        "product": "LEPE-BSOMON-EXX4",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-BSOMON-EXX5",
+        "warehouse": "EU-FRA-004",
+        "available": 18,
+        "in_warehouse": 18
+      },
+      {
+        "product": "LEPE-BSOMON-EXX6",
+        "warehouse": "EU-FRA-004",
+        "available": 6,
+        "in_warehouse": 6
+      },
+      {
+        "product": "LEPE-BSTLOU-BLE0",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BSTLOU-BLE1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BSTLOU-BLE2",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BSTLOU-BLE3",
+        "warehouse": "EU-FRA-004",
+        "backordered": 1
+      },
+      {
+        "product": "LEPE-BSTLOU-BLE4",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BSTLOU-BLE5",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BSTLOU-BLE6",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BSTLOU-ROS0",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BSTLOU-ROS1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BSTLOU-ROS2",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BSTLOU-ROS3",
+        "warehouse": "EU-FRA-004",
+        "backordered": 2
+      },
+      {
+        "product": "LEPE-BSTLOU-ROS4",
+        "warehouse": "EU-FRA-004",
+        "backordered": 1
+      },
+      {
+        "product": "LEPE-BSTLOU-ROS5",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-BSTLOU-ROS6",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BTAMBA-TAM0",
+        "warehouse": "EU-FRA-004",
+        "backordered": 1
+      },
+      {
+        "product": "LEPE-BTAMBA-TAM1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BTAMBA-TAM2",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-BTAMBA-TAM3",
+        "warehouse": "EU-FRA-004",
+        "available": 9,
+        "in_warehouse": 9
+      },
+      {
+        "product": "LEPE-BTAMBA-TAM4",
+        "warehouse": "EU-FRA-004",
+        "available": 18,
+        "in_warehouse": 18
+      },
+      {
+        "product": "LEPE-BTAMBA-TAM5",
+        "warehouse": "EU-FRA-004",
+        "available": 12,
+        "in_warehouse": 12
+      },
+      {
+        "product": "LEPE-BTAMBA-TAM6",
+        "warehouse": "EU-FRA-004",
+        "available": 5,
+        "in_warehouse": 5
+      },
+      {
+        "product": "LEPE-BTAMNR-NOI0",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BTAMNR-NOI1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BTAMNR-NOI2",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BTAMNR-NOI3",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-BTAMNR-NOI4",
+        "warehouse": "EU-FRA-004",
+        "available": 7,
+        "in_warehouse": 7
+      },
+      {
+        "product": "LEPE-BTAMNR-NOI5",
+        "warehouse": "EU-FRA-004",
+        "available": 5,
+        "in_warehouse": 5
+      },
+      {
+        "product": "LEPE-BTAMNR-NOI6",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-PLDJOU-BL13",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-PLDJOU-BL15",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-PLOUMP-JA11",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-PLOUMP-JA13",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-PLOUMP-JA15",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-PLOUMP-VE13",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-PLOUMP-VE15",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-PMEDIN-AX13",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-PMEDIN-AX15",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-PPIKIJ-AU11",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-PPIKIJ-AU13",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-PPIKIJ-AU15",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-PPIKIN-LA13",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-PPIKIN-LA15",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-SACASA-BLEU",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-SACASA-ROUG",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-SACBOG-BLAN",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-SACBOG-CLAS",
+        "warehouse": "EU-FRA-004",
+        "available": 7,
+        "in_warehouse": 7
+      },
+      {
+        "product": "LEPE-SACBOG-NOIR",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-SAFANN-XXXX",
+        "warehouse": "EU-FRA-004",
+        "available": 15,
+        "in_warehouse": 15
+      },
+      {
+        "product": "LEPE-SALOUM-JAUN",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-SAMEDI-NAXX",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-SANGOR-XXXX",
+        "warehouse": "EU-FRA-004",
+        "available": 5,
+        "in_warehouse": 5
+      },
+      {
+        "product": "LEPE-SAPIKI-JAUN",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-SAPIKI-SAUM",
+        "warehouse": "EU-FRA-004",
+        "available": 9,
+        "in_warehouse": 9
+      },
+      {
+        "product": "LEPE-SASOMO-NEXX",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-SURZIP-BLE0",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-SURZIP-BLE2",
+        "warehouse": "EU-FRA-004",
+        "backordered": 2
+      },
+      {
+        "product": "LEPE-SURZIP-BLE3",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-SURZIP-BLE4",
+        "warehouse": "EU-FRA-004",
+        "available": 8,
+        "in_warehouse": 8
+      },
+      {
+        "product": "LEPE-SURZIP-KAK0",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-SURZIP-KAK1",
+        "warehouse": "EU-FRA-004",
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-SURZIP-KAK2",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-SURZIP-KAK3",
+        "warehouse": "EU-FRA-004",
+        "backordered": 1
+      },
+      {
+        "product": "LEPE-SURZIP-KAK4",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-SURZIP-KAK5",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-SURZIP-KAK6",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-SURZIP-SBL1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-SURZIP-SBL2",
+        "warehouse": "EU-FRA-004",
+        "available": 10,
+        "in_warehouse": 10
+      },
+      {
+        "product": "LEPE-SURZIP-SBL3",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-SURZIP-SBL4",
+        "warehouse": "EU-FRA-004",
+        "available": 9,
+        "in_warehouse": 9
+      },
+      {
+        "product": "LEPE-SURZIP-SBL5",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-SURZIP-SBL6",
+        "warehouse": "EU-FRA-004",
+        "available": 20,
+        "in_warehouse": 20
+      },
+      {
+        "product": "LEPE-SURZIP-TER2",
+        "warehouse": "EU-FRA-004",
+        "backordered": 8
+      },
+      {
+        "product": "LEPE-SURZIP-TER4",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-TBLACA-BLE0",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-TBLACA-BLE1",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-TBLACA-BLE2",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TBLACA-BLE3",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-TBLACA-BLE4",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TBLACA-BLE5",
+        "warehouse": "EU-FRA-004",
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-TBLACA-BLE6",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-TBLOUM-JAU0",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-TBLOUM-JAU1",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TBLOUM-JAU2",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-TBLOUM-JAU3",
+        "warehouse": "EU-FRA-004",
+        "available": 6,
+        "in_warehouse": 6
+      },
+      {
+        "product": "LEPE-TBLOUM-JAU4",
+        "warehouse": "EU-FRA-004",
+        "available": 6,
+        "in_warehouse": 6
+      },
+      {
+        "product": "LEPE-TBLOUM-JAU5",
+        "warehouse": "EU-FRA-004",
+        "available": 7,
+        "in_warehouse": 7
+      },
+      {
+        "product": "LEPE-TBLOUM-JAU6",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TBMEDI-NAT0",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TBMEDI-NAT1",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TBMEDI-NAT2",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TBMEDI-NAT3",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-TBMEDI-NAT4",
+        "warehouse": "EU-FRA-004",
+        "available": 6,
+        "in_warehouse": 6
+      },
+      {
+        "product": "LEPE-TBMEDI-NAT5",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TBMEDI-NAT6",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TBOGOL-BLC1",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TBOGOL-BLC2",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TBOGOL-BLC3",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TBOGOL-BLC4",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TBOGOL-CLQ2",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TBOGOL-CLQ3",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-TBOGOL-CLQ4",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TBOGOL-CLQ5",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TBOGOL-CLQ6",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-TBOGOL-NOI1",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-TBOGOL-NOI2",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TBOGOL-NOI4",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-TBOGOL-OCR0",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-TBOGOL-OCR2",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-TBOGOL-OCR3",
+        "warehouse": "EU-FRA-004",
+        "available": 5,
+        "in_warehouse": 5
+      },
+      {
+        "product": "LEPE-TBOGOL-OCR4",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TBOGOL-OCR5",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TBPIKI-BLE0",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TBPIKI-BLE1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-TBPIKI-BLE2",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TBPIKI-BLE3",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TBPIKI-BLE4",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TBPIKI-BLE5",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TBPIKI-BLE6",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-TBPIKI-NOI0",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TBPIKI-NOI1",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-TBPIKI-NOI2",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-TBPIKI-NOI3",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-TBPIKI-NOI4",
+        "warehouse": "EU-FRA-004",
+        "available": 10,
+        "in_warehouse": 10
+      },
+      {
+        "product": "LEPE-TBPIKI-NOI5",
+        "warehouse": "EU-FRA-004",
+        "available": 8,
+        "in_warehouse": 8
+      },
+      {
+        "product": "LEPE-TBPIKI-NOI6",
+        "warehouse": "EU-FRA-004",
+        "available": 5,
+        "in_warehouse": 5
+      },
+      {
+        "product": "LEPE-TCCASA-ROU0",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TCCASA-ROU1",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TCCASA-ROU2",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TCCASA-ROU3",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TCCASA-ROU4",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TCCASA-ROU5",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TCCASA-ROU6",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TCLOUM-BOR0",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-TCLOUM-BOR2",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TCLOUM-BOR3",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-TCLOUM-BOR4",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TCLOUM-BOR5",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-TCLOUM-BOR6",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-TCLOUM-BOR7",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-TCMEDI-KAK0",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TCMEDI-KAK1",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TCMEDI-KAK2",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TCMEDI-KAK3",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-TCMEDI-KAK4",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TCMEDI-KAK5",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-TCMEDI-KAK6",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-TCPIKI-PAO0",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-TCPIKI-PAO1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-TCPIKI-PAO2",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TCPIKI-PAO3",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TCPIKI-PAO4",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TCPIKI-PAO5",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-TCPIKI-PAO6",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TCPIKI-SAB0",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-TCPIKI-SAB1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-TCPIKI-SAB2",
+        "warehouse": "EU-FRA-004",
+        "available": 11,
+        "in_warehouse": 11
+      },
+      {
+        "product": "LEPE-TCPIKI-SAB3",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-TCPIKI-SAB4",
+        "warehouse": "EU-FRA-004",
+        "available": 8,
+        "in_warehouse": 8
+      },
+      {
+        "product": "LEPE-TCPIKI-SAB5",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-TCPIKI-SAB6",
+        "warehouse": "EU-FRA-004",
+        "available": 2,
+        "in_warehouse": 2
+      },
+      {
+        "product": "LEPE-TCSTLO-LAG0",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-TCSTLO-LAG1",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TCSTLO-LAG2",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-TCSTLO-LAG3",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TCSTLO-LAG4",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-TCSTLO-LAG5",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-TCSTLO-LAG6",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TNMEDI-NAT0",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-TNMEDI-NAT1",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-TNMEDI-NAT2",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TNMEDI-NAT3",
+        "warehouse": "EU-FRA-004",
+        "available": 1,
+        "in_warehouse": 1
+      },
+      {
+        "product": "LEPE-TNMEDI-NAT4",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-TNMEDI-NAT5",
+        "warehouse": "EU-FRA-004",
+        "available": 3,
+        "in_warehouse": 3
+      },
+      {
+        "product": "LEPE-TNMEDI-NAT6",
+        "warehouse": "EU-FRA-004",
+        "available": 4,
+        "in_warehouse": 4
+      },
+      {
+        "product": "LEPE-TOTLOU-JAUN",
+        "warehouse": "EU-FRA-004"
+      },
+      {
+        "product": "LEPE-TOTPIK-JAUN",
+        "warehouse": "EU-FRA-004"
+      }
+    ]
+  }
+]
